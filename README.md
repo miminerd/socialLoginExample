@@ -5,6 +5,9 @@ Signin with Google, Linkedin or Facebook
 
 - 👉 [live demo](https://angular-social-login-buttons.herokuapp.com/)
 
+## Installation
+after cloning the project \
+run 'npm install'
 
 ## Development server
 

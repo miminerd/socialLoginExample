@@ -3,7 +3,7 @@
 Demo of the angular-social-login-buttons npm package \
 Signin with Google, Linkedin or Facebook
 
-- 👉 [live demo] (https://angular-social-login-buttons.herokuapp.com/)
+- 👉 [live demo](https://angular-social-login-buttons.herokuapp.com/)
 
 
 ## Development server

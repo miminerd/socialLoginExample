@@ -1,6 +1,6 @@
 # Angular social login buttons
 
-Demo of the angular-social-login-buttons npm package \
+Demo of the angular-social-login-buttons npm package.[package](https://www.npmjs.com/package/angular-social-login-buttons) \
 Signin with Google, Linkedin or Facebook
 
 - 👉 [live demo](https://angular-social-login-buttons.herokuapp.com/)
